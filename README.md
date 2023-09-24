@@ -13,7 +13,7 @@ The launcher icons are the first ten keys with modifier &nbsp;◊⃣
 - 3⃣&nbsp; Prompt - Calculator, Terminal (#) ⬛
 - 4⃣&nbsp; Ledger - Spreadsheets, Payment ($) 📒
 - 5⃣&nbsp; Games (%) 🎮
-- 6⃣&nbsp; Writing - Documents, Presentations (^) 🖊️
-- 7⃣&nbsp; Multimedia listening and viewing (&) ▶️
-- 8⃣&nbsp; Multimedia editors - Audio, Scoring, Video, Images, CAD (*) 🎚️
+- 6⃣&nbsp; Multimedia listening and viewing (^) ▶️
+- 7⃣&nbsp; Multimedia editors - Audio, Scoring, Video, Images, CAD (&) 🎚️
+- 8⃣&nbsp; Writing - Documents, Presentations (*) 🖊️
 - 9⃣&nbsp; Other - Controls, Settings, etc. (（) 🎛️
